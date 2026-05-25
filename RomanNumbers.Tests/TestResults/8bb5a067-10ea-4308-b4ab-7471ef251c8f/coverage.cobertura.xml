@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.8787" branch-rate="0.8332999999999999" version="1.9" timestamp="1779982647" lines-covered="29" lines-valid="33" branches-covered="5" branches-valid="6">
+  <sources>
+    <source>D:/</source>
+  </sources>
+  <packages>
+    <package name="RomanNumbers.Core" line-rate="0.8787" branch-rate="0.8332999999999999" complexity="6">
+      <classes>
+        <class name="RomanNumbers.Core.RomanNumberConverter" filename="Practices/IA-first/TDD-Challenge-Roman-Numerals/RomanNumbers.Core/RomanNumberConverter.cs" line-rate="0.8787" branch-rate="0.8332999999999999" complexity="6">
+          <methods>
+            <method name="ToRoman" signature="(System.Int32)" line-rate="0.8787" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="8" hits="19" branch="False" />
+                <line number="9" hits="19" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="10" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="15" hits="19" branch="False" />
+                <line number="16" hits="19" branch="False" />
+                <line number="17" hits="19" branch="False" />
+                <line number="18" hits="19" branch="False" />
+                <line number="19" hits="19" branch="False" />
+                <line number="20" hits="19" branch="False" />
+                <line number="21" hits="19" branch="False" />
+                <line number="22" hits="19" branch="False" />
+                <line number="23" hits="19" branch="False" />
+                <line number="24" hits="19" branch="False" />
+                <line number="25" hits="19" branch="False" />
+                <line number="26" hits="19" branch="False" />
+                <line number="27" hits="19" branch="False" />
+                <line number="28" hits="19" branch="False" />
+                <line number="29" hits="19" branch="False" />
+                <line number="30" hits="19" branch="False" />
+                <line number="32" hits="19" branch="False" />
+                <line number="34" hits="551" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="307" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="35" hits="247" branch="False" />
+                <line number="36" hits="308" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="297" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="37" hits="61" branch="False" />
+                <line number="38" hits="61" branch="False" />
+                <line number="39" hits="61" branch="False" />
+                <line number="40" hits="61" branch="False" />
+                <line number="41" hits="247" branch="False" />
+                <line number="43" hits="19" branch="False" />
+                <line number="44" hits="19" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="19" branch="False" />
+            <line number="9" hits="19" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="10" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="15" hits="19" branch="False" />
+            <line number="16" hits="19" branch="False" />
+            <line number="17" hits="19" branch="False" />
+            <line number="18" hits="19" branch="False" />
+            <line number="19" hits="19" branch="False" />
+            <line number="20" hits="19" branch="False" />
+            <line number="21" hits="19" branch="False" />
+            <line number="22" hits="19" branch="False" />
+            <line number="23" hits="19" branch="False" />
+            <line number="24" hits="19" branch="False" />
+            <line number="25" hits="19" branch="False" />
+            <line number="26" hits="19" branch="False" />
+            <line number="27" hits="19" branch="False" />
+            <line number="28" hits="19" branch="False" />
+            <line number="29" hits="19" branch="False" />
+            <line number="30" hits="19" branch="False" />
+            <line number="32" hits="19" branch="False" />
+            <line number="34" hits="551" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="307" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="35" hits="247" branch="False" />
+            <line number="36" hits="308" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="297" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="37" hits="61" branch="False" />
+            <line number="38" hits="61" branch="False" />
+            <line number="39" hits="61" branch="False" />
+            <line number="40" hits="61" branch="False" />
+            <line number="41" hits="247" branch="False" />
+            <line number="43" hits="19" branch="False" />
+            <line number="44" hits="19" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
