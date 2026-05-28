@@ -30,16 +30,19 @@ This project was developed using Test-Driven Development (TDD), following the re
 ## Project Structure
 
 ```text
-RomanNumbers/
+TDD-Challenge-Roman-Numerals/
 │
-├── src/
-│   └── RomanNumbers.Core/
+├── RomanNumbers.Core/
+│   └── RomanNumberConverter.cs
 │
-├── tests/
-│   └── RomanNumbers.Tests/
+├── RomanNumbers.Tests/
+│   └── RomanNumberConverterTests.cs
+|   └── coveragereport/
+|       └── RomanNumbers.Core_RomanNumberConverter.html
+|   └── TestResults/
 │
 ├── README.md
-└── RomanNumbers.sln
+└── Challengue2.RomanNumbers.sln
 ```
 
 ---
